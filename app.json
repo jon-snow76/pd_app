@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Daily Productivity Scheduler",
+    "slug": "daily-productivity-scheduler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
